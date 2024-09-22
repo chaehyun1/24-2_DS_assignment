@@ -2,4 +2,4 @@
 
 | Week  | Content  |
 |------|------|
-| 01 | Implementation of ViT, Transformer, and CNN architectures using PyTorch. |
+| 01 | Implementation of CNN, Transformer, and ViT architectures using PyTorch. |
