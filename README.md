@@ -3,3 +3,4 @@
 | Week  | Content  |
 |------|------|
 | 01 | Implementation of CNN, Transformer, and ViT architectures using PyTorch. |
+| 02 | Implementation of YOLOv1. |
