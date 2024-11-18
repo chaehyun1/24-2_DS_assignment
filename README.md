@@ -7,3 +7,4 @@
 | 03 | Implementation of UNet & Segmentation. |
 | 05 | Implementation of Vision Transformer, Masked Autoencoders, and End-to-End Object Detection with Transformers. |
 | 07 | Implementation of SwinTransformer. |
+| 08 | Implementation of ECE socre(Representation Learning). |
